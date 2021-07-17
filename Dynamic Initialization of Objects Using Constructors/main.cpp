@@ -5,7 +5,7 @@
 //  Created by Shobhit Singh on 17/07/21.
 //
 
-//                            **Banking System For Intrest Return on Principal **
+//                                                   **Banking System For Intrest Return on Principal **
 
 
 #include "iostream"
